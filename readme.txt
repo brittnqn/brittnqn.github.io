@@ -1,4 +1,5 @@
 Number of points I think I received: 10 points
+	-For the validation checks, it showed I had potential problems, but I did not deem 	them as a problem at all.
 
 A list containing the basic HTML content, CSS styling, and advanced feature you included in your portfolio:
 
@@ -34,11 +35,10 @@ https://getbootstrap.com/docs/4.1/getting-started/introduction/
 	-(all documentation of bootstrap)
 https://www.w3schools.com/bootstrap/bootstrap_ref_css_buttons.asp
 https://www.w3schools.com/cssref/css3_pr_animation.asp
-Coolors.co
 https://fontawesome.com/
 https://fonts.google.com/
 https://www.w3schools.com/cssref/css_selectors.asp
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
-
+Coolors.co
 
 A list of classmates or other individuals you consulted: N/A
